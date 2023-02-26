@@ -1,4 +1,4 @@
-# Football-challenge
+
 Train your skills in DAX
 
 train your skills in DAX and power BI, Challenge created by curbal youtube channel which talks about power bi and dax
